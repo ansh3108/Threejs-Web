@@ -36,7 +36,7 @@ const HomeInfo = ({ currentStage }) => {
           Let's collaborate on open-source or web3 apps! <br />
         </p>
 
-        <Link to='https://ansh.dino.icu/' className='neo-brutalism-white neo-btn'>
+        <Link to='https://www.anshk.dev/' className='neo-brutalism-white neo-btn'>
           Visit my portfolio
           <img src={arrow} alt='arrow' className='w-4 h-4 object-contain' />
         </Link>
